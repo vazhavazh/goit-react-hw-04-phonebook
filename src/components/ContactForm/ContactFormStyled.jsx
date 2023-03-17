@@ -43,7 +43,7 @@ export const InputStyled = styled.input`
 export const Button = styled.button`
   font-size: 16px;
   padding: 8px 16px;
-  background-color: #007bff;
+  background-color: #0080ff;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -51,6 +51,6 @@ export const Button = styled.button`
   transition: background-color 0.3s ease;
   &:hover,
   &:focus {
-    background-color: #0062cc;
+    background-color: #0022cc;
   }
 `;
